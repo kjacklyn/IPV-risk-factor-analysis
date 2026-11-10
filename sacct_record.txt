@@ -1,0 +1,5 @@
+JobID           JobName   Partition   Account   AllocCPUS     State ExitCode
+------------ ------------ ---------- --------- ---------- ---------- --------
+65806308       ipv_proje+ standard   compfor20+          1 COMPLETED      0:0
+65806308.ba+   batch                  compfor20+         1 COMPLETED      0:0
+65806308.ex+   extern                 compfor20+         1 COMPLETED      0:0

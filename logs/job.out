@@ -1,0 +1,12 @@
+Starting IPV Risk-Factor Analysis...
+
+Results
+Sample Size: 10
+Average Support: 5.5
+Average Stress: 5.3
+Correlation: -0.96
+
+Interpretation:
+In this hypothetical sample of 10 participants, higher social support was associated with lower stress.
+
+Results saved to results/ipv_summary.csv
